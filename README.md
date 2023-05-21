@@ -1,5 +1,3 @@
-# Measurement-TermsOfService
-
 Terms of Service
 
 1. Terms
